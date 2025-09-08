@@ -4,7 +4,6 @@
 This project analyzes historical Airbnb data to recommend **optimal listing prices**.  
 It combines **machine learning (regression model)** and **interactive dashboards** to help Airbnb hosts maximize revenue while ensuring competitive pricing.  
 
----
 
 ## 🛠 Tools & Technologies  
 - Python (Pandas, Scikit-learn, Matplotlib/Seaborn)  
