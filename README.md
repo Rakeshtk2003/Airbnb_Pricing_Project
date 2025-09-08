@@ -10,7 +10,7 @@ It combines **machine learning (regression model)** and **interactive dashboards
 - Power BI for dashboards  
 - Excel for initial exploration  
 
----
+
 
 ## 🚀 Approach  
 1. **Data Preparation** – Cleaned and structured the Airbnb dataset.  
@@ -18,7 +18,7 @@ It combines **machine learning (regression model)** and **interactive dashboards
 3. **Prediction Output** – Generated predicted prices and calculated price gaps.  
 4. **Visualization** – Designed interactive dashboards for market insights and recommendations.  
 
----
+
 
 ## 🔑 Key Insights  
 - **London & Paris** → Highest predicted prices.  
@@ -26,7 +26,7 @@ It combines **machine learning (regression model)** and **interactive dashboards
 - **Superhost Status** → Positive impact on achievable pricing.  
 - **Barcelona** → Shows largest mispricing gap (underpriced compared to predictions).  
 
----
+
 
 ## 💡 Recommendations  
 - Adjust prices upwards in **London/Paris**; keep **Berlin/Budapest** competitive.  
@@ -37,7 +37,7 @@ It combines **machine learning (regression model)** and **interactive dashboards
 
 📌 Example: The model recommended an **optimal price of €687.42** for one listing, balancing location, reviews, and capacity with market trends.  
 
----
+
 
 ## 📊 Deliverables  
 - **Python Script** → Data cleaning & ML-based pricing engine (`airbnb_pricing_engine.ipynb`)  
@@ -45,7 +45,7 @@ It combines **machine learning (regression model)** and **interactive dashboards
 - **Power BI Dashboards** → Market Overview & Price Recommendation  
 - **Final Report (PDF)** → Insights + Recommendations for Airbnb hosts/platform  
 
----
+
 
 ## 📷 Dashboard Snapshots  
 - Market Overview → City-wise pricing, room type trends  
